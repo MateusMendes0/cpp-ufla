@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	
-	int alunos = 10, provas=3;
+int alunos = 10, provas=3;
     int matriz[alunos][provas], menor=0, menorprova;
 
 	int cont1=0, cont2=0, cont3 = 0;
